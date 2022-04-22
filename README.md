@@ -8,6 +8,7 @@ A2SV Challenges for Community Progress
 
 # Finished Projects
 
-Fizz Buzz
-Grading Students
-Domino Pilling
+1) Fizz Buzz
+2) Grading Students
+3) Domino Pilling
+4) Bubble Sort
