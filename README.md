@@ -12,3 +12,4 @@ A2SV Challenges for Community Progress
 2) Grading Students
 3) Domino Pilling
 4) Bubble Sort
+5) Insertion Sort
