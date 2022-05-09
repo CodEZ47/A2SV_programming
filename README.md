@@ -16,4 +16,4 @@ A2SV Challenges for Community Progress
 6) Counting Sort
 7) Selection Sort
 8) Count Smaller Numbers After Self
-9) 
+9) Find Target Indices After Sorting
