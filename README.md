@@ -18,3 +18,5 @@ A2SV Challenges for Community Progress
 8) Count Smaller Numbers After Self
 9) Find Target Indices After Sorting
 10) Sorting the Sentence
+11) Sort Colors
+12) 
