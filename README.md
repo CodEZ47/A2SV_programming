@@ -19,4 +19,4 @@ A2SV Challenges for Community Progress
 9) Find Target Indices After Sorting
 10) Sorting the Sentence
 11) Sort Colors
-12) 
+12) [Merge Intervals](https://github.com/CodEZ47/Competitive-Programming/blob/main/Merge%20Intervals/merge-intervals.js)
