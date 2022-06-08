@@ -22,3 +22,4 @@ A2SV Challenges for Community Progress
 12) [K-Closest Points to Origin](https://github.com/CodEZ47/Competitive-Programming/blob/main/K%20Closest%20Points%20to%20Origin/KCPO.js)
 13) [Merge Intervals](https://github.com/CodEZ47/Competitive-Programming/blob/main/Merge%20Intervals/merge-intervals.js)
 14) [Largest Number](https://github.com/CodEZ47/Competitive-Programming/blob/main/Largest%20Number/largest-number.js)
+15) [Array With Elements Not Equal to Average of Neighbors](https://github.com/CodEZ47/Competitive-Programming/blob/main/Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/AWENEAN.js)
