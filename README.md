@@ -24,3 +24,4 @@ A2SV Challenges for Community Progress
 14) [Largest Number](https://github.com/CodEZ47/Competitive-Programming/blob/main/Largest%20Number/largest-number.js)
 15) [Array With Elements Not Equal to Average of Neighbors](https://github.com/CodEZ47/Competitive-Programming/blob/main/Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/AWENEAN.js)
 16) [Number of Good Pairs](https://github.com/CodEZ47/Competitive-Programming/blob/main/Number%20of%20Good%20Pairs/NoGP.js)
+17) [Valid Parentheses]()
