@@ -25,3 +25,4 @@ A2SV Challenges for Community Progress
 15) [Array With Elements Not Equal to Average of Neighbors](https://github.com/CodEZ47/Competitive-Programming/blob/main/Array%20With%20Elements%20Not%20Equal%20to%20Average%20of%20Neighbors/AWENEAN.js)
 16) [Number of Good Pairs](https://github.com/CodEZ47/Competitive-Programming/blob/main/Number%20of%20Good%20Pairs/NoGP.js)
 17) [Valid Parentheses](https://github.com/CodEZ47/Competitive-Programming/blob/main/Valid%20Parentheses/valid-parentheses.js)
+18) [Counting Valleys](https://github.com/CodEZ47/Competitive-Programming/blob/main/Counting%20Valleys/counting-valleys.js)
