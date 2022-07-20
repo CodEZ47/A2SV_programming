@@ -26,3 +26,4 @@ A2SV Challenges for Community Progress
 16) [Number of Good Pairs](https://github.com/CodEZ47/Competitive-Programming/blob/main/Number%20of%20Good%20Pairs/NoGP.js)
 17) [Valid Parentheses](https://github.com/CodEZ47/Competitive-Programming/blob/main/Valid%20Parentheses/valid-parentheses.js)
 18) [Counting Valleys](https://github.com/CodEZ47/Competitive-Programming/blob/main/Counting%20Valleys/counting-valleys.js)
+19) [Theater Square](https://github.com/CodEZ47/Competitive-Programming/blob/main/Theater%20Square/theater-square.js)
