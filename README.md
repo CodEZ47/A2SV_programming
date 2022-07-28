@@ -27,3 +27,4 @@ A2SV Challenges for Community Progress
 17) [Valid Parentheses](https://github.com/CodEZ47/Competitive-Programming/blob/main/Valid%20Parentheses/valid-parentheses.js)
 18) [Counting Valleys](https://github.com/CodEZ47/Competitive-Programming/blob/main/Counting%20Valleys/counting-valleys.js)
 19) [Theater Square](https://github.com/CodEZ47/Competitive-Programming/blob/main/Theater%20Square/theater-square.js)
+20) [Find the Kth Largest Element](https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20the%20Kth%20Largest%20Element/FtKLE.js)
