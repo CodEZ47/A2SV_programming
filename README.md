@@ -6,7 +6,7 @@ A2SV Challenges for Community Progress
 
 
 
-# Finished Projects
+# Completed Challenges
 
 1) [Fizz Buzz](https://github.com/CodEZ47/Competitive-Programming/blob/main/Fizz%20Buzz/fizz-buzz.js)
 2) [Grading Students](https://github.com/CodEZ47/Competitive-Programming/blob/main/Grading%20Students/grading-students.js)
