@@ -29,4 +29,4 @@ A2SV Challenges for Community Progress
 19) [Theater Square](https://github.com/CodEZ47/Competitive-Programming/blob/main/Theater%20Square/theater-square.js)
 20) [Find the Kth Largest Element](https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20the%20Kth%20Largest%20Element/FtKLE.js)
 21) [Frequency of the Most Frequent Element](https://github.com/CodEZ47/Competitive-Programming/blob/main/Frequency%20of%20the%20Most%20Frequent%20%20Element/FotMFE.js)
-22) [Find Original Array from Doubled Array] (https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20Original%20Array%20From%20Doubled%20Array/FOAFDA.js)
+22) [Find Original Array from Doubled Array](https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20Original%20Array%20From%20Doubled%20Array/FOAFDA.js)
