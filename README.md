@@ -34,3 +34,4 @@ A2SV Challenges for Community Progress
 24) [Min Stack](https://github.com/CodEZ47/Competitive-Programming/blob/main/Min%20Stack/min-stack.js)
 25) [Evaluate Reverse Polish Notation](https://github.com/CodEZ47/Competitive-Programming/blob/main/Evaluate%20Reverse%20Polish%20Notation/ERPN.js)
 26) [Reverse Substirng Between Each Pair of Parentheses](https://github.com/CodEZ47/Competitive-Programming/blob/main/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/RSBEPoP.js)
+27) [Middle of the Linked List](https://github.com/CodEZ47/Competitive-Programming/blob/main/Middle%20of%20the%20Linked%20List/MotLL.js)
