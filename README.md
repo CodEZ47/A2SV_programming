@@ -35,4 +35,4 @@ A2SV Challenges for Community Progress
 25) [Evaluate Reverse Polish Notation](https://github.com/CodEZ47/Competitive-Programming/blob/main/Evaluate%20Reverse%20Polish%20Notation/ERPN.js)
 26) [Reverse Substirng Between Each Pair of Parentheses](https://github.com/CodEZ47/Competitive-Programming/blob/main/Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses/RSBEPoP.js)
 27) [Middle of the Linked List](https://github.com/CodEZ47/Competitive-Programming/blob/main/Middle%20of%20the%20Linked%20List/MotLL.js)
-28) [Remove Duplicates from Sorted List II] (https://github.com/CodEZ47/Competitive-Programming/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II/RDfSL2.js)
+28) [Remove Duplicates from Sorted List II](https://github.com/CodEZ47/Competitive-Programming/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II/RDfSL2.js)
