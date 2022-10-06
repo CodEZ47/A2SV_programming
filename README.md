@@ -37,3 +37,4 @@ A2SV Challenges for Community Progress
 27) [Middle of the Linked List](https://github.com/CodEZ47/Competitive-Programming/blob/main/Middle%20of%20the%20Linked%20List/MotLL.js)
 28) [Remove Duplicates from Sorted List II](https://github.com/CodEZ47/Competitive-Programming/blob/main/Remove%20Duplicates%20from%20Sorted%20List%20II/RDfSL2.js)
 29) [Move Zeroes](https://github.com/CodEZ47/Competitive-Programming/blob/main/Move%20Zeroes/move-zeros.js)
+30) [Decode String](https://github.com/CodEZ47/Competitive-Programming/blob/main/Decode%20String/decode-string.js)
