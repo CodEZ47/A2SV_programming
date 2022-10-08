@@ -40,3 +40,4 @@ A2SV Challenges for Community Progress
 30) [Decode String](https://github.com/CodEZ47/Competitive-Programming/blob/main/Decode%20String/decode-string.js)
 31) [Boats to Save People](https://github.com/CodEZ47/Competitive-Programming/blob/main/Boats%20to%20Save%20People/BtSP.js)
 32) [Find Pivot Index](https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20Pivot%20Index/find-pivot-index.js)
+33) [Rotate Array](https://github.com/CodEZ47/Competitive-Programming/blob/main/Rotate%20Array/rotate-array.js)
