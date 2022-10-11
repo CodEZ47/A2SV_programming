@@ -42,3 +42,4 @@ A2SV Challenges for Community Progress
 32) [Find Pivot Index](https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20Pivot%20Index/find-pivot-index.js)
 33) [Rotate Array](https://github.com/CodEZ47/Competitive-Programming/blob/main/Rotate%20Array/rotate-array.js)
 34) [Product of Array Except Self](https://github.com/CodEZ47/Competitive-Programming/blob/main/Product%20of%20Array%20Except%20Self/PoAES.js)
+35) [Subarray Sum Equals K](https://github.com/CodEZ47/Competitive-Programming/blob/main/Subarray%20Sum%20Equals%20K/SSEK.js)
