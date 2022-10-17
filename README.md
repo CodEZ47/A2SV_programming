@@ -44,3 +44,4 @@ A2SV Challenges for Community Progress
 34) [Product of Array Except Self](https://github.com/CodEZ47/Competitive-Programming/blob/main/Product%20of%20Array%20Except%20Self/PoAES.js)
 35) [Subarray Sum Equals K](https://github.com/CodEZ47/Competitive-Programming/blob/main/Subarray%20Sum%20Equals%20K/SSEK.js)
 36) [Max Consecutive Ones III](https://github.com/CodEZ47/Competitive-Programming/blob/main/Max%20Consecutive%20Ones%20III/MCOIII.js)
+37) [Range Sum Query 2D](https://github.com/CodEZ47/Competitive-Programming/blob/main/Range%20Sum%20Query%202D/RSQ2D.js)
