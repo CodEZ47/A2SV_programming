@@ -47,3 +47,4 @@ A2SV Challenges for Community Progress
 37) [Range Sum Query 2D](https://github.com/CodEZ47/Competitive-Programming/blob/main/Range%20Sum%20Query%202D/RSQ2D.js)
 38) [Longest Subarray of 1's After Deleting One Element](https://github.com/CodEZ47/Competitive-Programming/blob/main/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/LSoADOE.js)
 39) [Maximum Number of Vowels in a Substring of Given Length](https://github.com/CodEZ47/Competitive-Programming/blob/main/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/MNoViaSoGL.js)
+40) [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/CodEZ47/Competitive-Programming/blob/main/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold/NoSoSkaAGtoEtT.js)
