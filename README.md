@@ -45,3 +45,4 @@ A2SV Challenges for Community Progress
 35) [Subarray Sum Equals K](https://github.com/CodEZ47/Competitive-Programming/blob/main/Subarray%20Sum%20Equals%20K/SSEK.js)
 36) [Max Consecutive Ones III](https://github.com/CodEZ47/Competitive-Programming/blob/main/Max%20Consecutive%20Ones%20III/MCOIII.js)
 37) [Range Sum Query 2D](https://github.com/CodEZ47/Competitive-Programming/blob/main/Range%20Sum%20Query%202D/RSQ2D.js)
+38) [Longest Subarray of 1's After Deleting One Element](https://github.com/CodEZ47/Competitive-Programming/blob/main/Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element/LSoADOE.js)
