@@ -54,4 +54,5 @@ A2SV Challenges for Community Progress
 44) [Max Number of K-Sum Pairs](https://github.com/CodEZ47/Competitive-Programming/blob/main/Max%20Number%20of%20K-Sum%20Pairs/MNoKSP.js)
 45) [Maximum Number of Coins You Can Get](https://github.com/CodEZ47/Competitive-Programming/blob/main/Maximum%20Number%20of%20Coins%20You%20Can%20Get/MNoCYCG.js)
 46) [Minimize Maximum Pair Sum in Array](https://github.com/CodEZ47/Competitive-Programming/blob/main/Minimize%20Maximum%20Pair%20Sum%20in%20Array/MMPSiA.js)
+47) [Reduce Array Size to The Half](https://github.com/CodEZ47/Competitive-Programming/blob/main/Reduce%20Array%20Size%20to%20The%20Half/RAStTH.js)
 
