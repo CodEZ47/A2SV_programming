@@ -51,4 +51,5 @@ A2SV Challenges for Community Progress
 41) [Maximum Points You Can Obtain from Cards](https://github.com/CodEZ47/Competitive-Programming/blob/main/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/MPYCOfC.js)
 42) [Find the Student that Will Replace the Chalk](https://github.com/CodEZ47/Competitive-Programming/blob/main/Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk/FtStWRtC.js)
 43) [Minimum Size Subarray Sum](https://github.com/CodEZ47/Competitive-Programming/blob/main/Minimum%20Size%20Subarray%20Sum/MSSS.js)
+44) [Max Number of K-Sum Pairs](https://github.com/CodEZ47/Competitive-Programming/blob/main/Max%20Number%20of%20K-Sum%20Pairs/MNoKSP.js)
 
