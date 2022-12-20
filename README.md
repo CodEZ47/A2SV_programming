@@ -55,4 +55,5 @@ A2SV Challenges for Community Progress
 45) [Maximum Number of Coins You Can Get](https://github.com/CodEZ47/Competitive-Programming/blob/main/Maximum%20Number%20of%20Coins%20You%20Can%20Get/MNoCYCG.js)
 46) [Minimize Maximum Pair Sum in Array](https://github.com/CodEZ47/Competitive-Programming/blob/main/Minimize%20Maximum%20Pair%20Sum%20in%20Array/MMPSiA.js)
 47) [Reduce Array Size to The Half](https://github.com/CodEZ47/Competitive-Programming/blob/main/Reduce%20Array%20Size%20to%20The%20Half/RAStTH.js)
+48) [Word Order]{https://github.com/CodEZ47/A2SV_programming/blob/main/Word%20Order/word-order.py}
 
