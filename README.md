@@ -60,3 +60,4 @@ A2SV Challenges for Community Progress
 50) [Print Function](https://github.com/CodEZ47/A2SV_programming/blob/main/Print%20Function/print-function.py)
 51) [Swap Case](https://github.com/CodEZ47/A2SV_programming/blob/main/sWAP%20cASE/swap-case.py)
 52) [Palindrome Number](https://github.com/CodEZ47/A2SV_programming/blob/main/Palindrome%20Number/palindrome-num.py)
+53) [Longest Common Prefix](https://github.com/CodEZ47/A2SV_programming/blob/main/Longest%20Common%20Prefix/longest-common-prefix.py)
