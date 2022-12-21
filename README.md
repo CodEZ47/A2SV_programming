@@ -57,4 +57,5 @@ A2SV Challenges for Community Progress
 47) [Reduce Array Size to The Half](https://github.com/CodEZ47/Competitive-Programming/blob/main/Reduce%20Array%20Size%20to%20The%20Half/RAStTH.js)
 48) [Word Order](https://github.com/CodEZ47/A2SV_programming/blob/main/Word%20Order/word-order.py)
 49) [Python Division](https://github.com/CodEZ47/A2SV_programming/blob/main/Python%20Division/py-division.py)
-
+50) [Print Function](https://github.com/CodEZ47/A2SV_programming/blob/main/Print%20Function/print-function.py)
+51) [Swap Case](https://github.com/CodEZ47/A2SV_programming/blob/main/sWAP%20cASE/swap-case.py)
