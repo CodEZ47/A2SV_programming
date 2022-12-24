@@ -63,4 +63,7 @@ A2SV Challenges for Community Progress
 53) [Longest Common Prefix](https://github.com/CodEZ47/A2SV_programming/blob/main/Longest%20Common%20Prefix/longest-common-prefix.py)
 54) [List Comprehension](https://github.com/CodEZ47/A2SV_programming/blob/main/List%20Comprehension/list-comp.py)
 55) [Merge Sorted Array](https://github.com/CodEZ47/A2SV_programming/blob/main/0088-merge-sorted-array/0088-merge-sorted-array.py)
+56) [Goal Parser Interpretation](https://github.com/CodEZ47/A2SV_programming/blob/main/1678-goal-parser-interpretation/1678-goal-parser-interpretation.py)
+57) [Merge String Alternately](https://github.com/CodEZ47/A2SV_programming/blob/main/1768-merge-strings-alternately/1768-merge-strings-alternately.py)
+58) 
 
