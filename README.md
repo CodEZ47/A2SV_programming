@@ -77,4 +77,7 @@ A2SV Challenges for Community Progress
 67) [Arthimetic Operations](https://github.com/CodEZ47/A2SV_programming/blob/main/Arithmetic%20Operators/arthimetic-operators.py)
 68) [No Idea!](https://github.com/CodEZ47/A2SV_programming/blob/main/No%20Idea!/no-idea.py)
 69) [Pilling Up](https://github.com/CodEZ47/A2SV_programming/blob/main/Piling%20Up/piling-up.py)
+70) [Verifying an Alien Dictionary](https://github.com/CodEZ47/A2SV_programming/blob/main/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py)
+71) [Remove Element](https://github.com/CodEZ47/A2SV_programming/blob/main/0027-remove-element/0027-remove-element.py)
+72) []()
 
