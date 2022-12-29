@@ -79,5 +79,9 @@ A2SV Challenges for Community Progress
 69) [Pilling Up](https://github.com/CodEZ47/A2SV_programming/blob/main/Piling%20Up/piling-up.py)
 70) [Verifying an Alien Dictionary](https://github.com/CodEZ47/A2SV_programming/blob/main/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py)
 71) [Remove Element](https://github.com/CodEZ47/A2SV_programming/blob/main/0027-remove-element/0027-remove-element.py)
-72) []()
+72) [Check If N and Its Double Exist](https://github.com/CodEZ47/A2SV_programming/blob/main/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.py)
+73) [Sort Array By Parity](https://github.com/CodEZ47/A2SV_programming/blob/main/0905-sort-array-by-parity/0905-sort-array-by-parity.py)
+74) [Set.difference()](https://github.com/CodEZ47/A2SV_programming/blob/main/Set.difference()/set-diff)
+75) [Set.Union()](https://github.com/CodEZ47/A2SV_programming/blob/main/Set.Union()/set-union.py)
+76) 
 
