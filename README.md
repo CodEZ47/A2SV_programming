@@ -92,5 +92,6 @@ A2SV Challenges for Community Progress
 82) [Mod Power](https://github.com/CodEZ47/A2SV_programming/blob/main/Mod%20Power/mod-pow.py)
 83) [Smallest Even Multiple](https://github.com/CodEZ47/A2SV_programming/blob/main/2413-smallest-even-multiple/2413-smallest-even-multiple.py)
 84) [Convert the Tempreture](https://github.com/CodEZ47/A2SV_programming/blob/main/2469-convert-the-temperature/2469-convert-the-temperature.py)
-85) 
+85) [Count Good Meals](https://github.com/CodEZ47/A2SV_programming/blob/main/1711-count-good-meals/1711-count-good-meals.py)
+86) 
 
