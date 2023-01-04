@@ -93,5 +93,9 @@ A2SV Challenges for Community Progress
 83) [Smallest Even Multiple](https://github.com/CodEZ47/A2SV_programming/blob/main/2413-smallest-even-multiple/2413-smallest-even-multiple.py)
 84) [Convert the Tempreture](https://github.com/CodEZ47/A2SV_programming/blob/main/2469-convert-the-temperature/2469-convert-the-temperature.py)
 85) [Count Good Meals](https://github.com/CodEZ47/A2SV_programming/blob/main/1711-count-good-meals/1711-count-good-meals.py)
-86) 
+86) [Default Dict](https://github.com/CodEZ47/A2SV_programming/blob/main/Default%20Dict/default-dict.py)
+87) [Check Strct Set](https://github.com/CodEZ47/A2SV_programming/blob/main/Check%20Strict%20Set/check-strict-set.py)
+88) [Tuples](https://github.com/CodEZ47/A2SV_programming/blob/main/Tuples/tuples.py)
+89) [List](https://github.com/CodEZ47/A2SV_programming/blob/main/Lists/lists.py)
+90) 
 
