@@ -99,4 +99,8 @@ A2SV Challenges for Community Progress
 89) [List](https://github.com/CodEZ47/A2SV_programming/blob/main/Lists/lists.py)
 90) [Planets](https://github.com/CodEZ47/A2SV_programming/blob/main/Planets/planets.py)
 91) [Remove Comment](https://github.com/CodEZ47/A2SV_programming/blob/main/0722-remove-comments/0722-remove-comments.py)
+92) [Find Common Characters](https://github.com/CodEZ47/A2SV_programming/blob/main/1002-find-common-characters/1002-find-common-characters.py)
+93) [Reverse Stirng](https://github.com/CodEZ47/A2SV_programming/blob/main/0344-reverse-string/0344-reverse-string.py)
+94) [Apply Operations to an Array](https://github.com/CodEZ47/A2SV_programming/blob/main/2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py)
+95) 
 
