@@ -102,5 +102,6 @@ A2SV Challenges for Community Progress
 92) [Find Common Characters](https://github.com/CodEZ47/A2SV_programming/blob/main/1002-find-common-characters/1002-find-common-characters.py)
 93) [Reverse Stirng](https://github.com/CodEZ47/A2SV_programming/blob/main/0344-reverse-string/0344-reverse-string.py)
 94) [Apply Operations to an Array](https://github.com/CodEZ47/A2SV_programming/blob/main/2460-apply-operations-to-an-array/2460-apply-operations-to-an-array.py)
-95) 
+95) [Move Zeros py](https://github.com/CodEZ47/A2SV_programming/blob/main/0283-move-zeroes/0283-move-zeroes.py)
+96) 
 
