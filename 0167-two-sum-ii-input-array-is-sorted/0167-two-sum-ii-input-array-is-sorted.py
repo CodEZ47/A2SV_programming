@@ -1,15 +1,10 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        start = 0
-        end = len(numbers)-1
+        nums = set(numbers)
         
-        while start < end:
-            s = numbers[start] + numbers[end]
-            
-            if s > target:
-                end -= 1
-            elif s < target:
-                start += 1
-            else:
-                return [start+1, end+1]
+        for i in range(len(numbers)):
+            diff = target - numbers[i]
+            # print(diff)
+            if diff in nums:
+                return [i+1, numbers.index(diff, i+1)+1]
         
