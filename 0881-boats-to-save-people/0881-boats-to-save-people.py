@@ -6,21 +6,13 @@ class Solution:
         people.sort()
         
         while s <= e:
-            if people[s] >= limit:
+            if people[s] + people[e] <= limit:
                 boats += 1
                 s += 1
-                continue
-            if people[e] >= limit:
-                boats += 1
-                e -= 1
-                continue
-            if people[s] + people[e] > limit:
-                boats += 1
                 e -= 1
                 continue
             
             boats += 1
-            s += 1
             e -= 1
         
         return boats
