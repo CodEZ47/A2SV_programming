@@ -1,7 +1,7 @@
 class Solution:
     def maxFrequency(self, nums: List[int], k: int) -> int:
-        nums.sort()
-        nums.reverse()
+        nums.sort(reverse = True)
+        # nums.reverse()
         n = 0
         max_ = 0
         prev = 0
