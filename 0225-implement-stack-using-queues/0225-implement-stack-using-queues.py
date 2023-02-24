@@ -8,12 +8,10 @@ class MyStack:
         return
 
     def pop(self) -> int:
-        if self.stack:
-            return self.stack.pop()
+        return self.stack.pop()
 
     def top(self) -> int:
-        if self.stack:
-            return self.stack[-1]
+        return self.stack[-1]
 
     def empty(self) -> bool:
         if self.stack:
