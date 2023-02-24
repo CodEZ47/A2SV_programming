@@ -1,6 +1,6 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
-        stack = deque()
+        stack = []
         
         for op in logs:
             if op == "../" and stack:
