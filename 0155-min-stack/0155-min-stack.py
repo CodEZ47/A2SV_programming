@@ -1,8 +1,8 @@
 class MinStack:
 
     def __init__(self):
-        self.stack = deque()
-        self.min = deque()
+        self.stack = []
+        self.min = []
 
     def push(self, val: int) -> None:
         self.stack.append(val)
