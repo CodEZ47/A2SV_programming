@@ -11,8 +11,7 @@ class Solution:
                 while s[l] != s[i]:
                     dict_let.pop(s[l])
                     l += 1
-                if l < i:
-                    l += 1
+                l += 1
                 continue
             
             dict_let[s[i]] += 1
