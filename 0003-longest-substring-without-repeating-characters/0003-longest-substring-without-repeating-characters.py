@@ -3,10 +3,8 @@ class Solution:
         l = 0
         dict_let = defaultdict(int)
         max_wind = 0
-        if len(s) == 0:
+        if not s:
             return 0
-        if len(s) == 1:
-            return 1
         
         for i in range(len(s)):
             if s[i] in dict_let:
@@ -19,7 +17,6 @@ class Solution:
             
             dict_let[s[i]] += 1
             max_wind = max(max_wind, i - l+1)
-            # print(s[i], dict_let[s[i]])
         
         return max_wind
                 
