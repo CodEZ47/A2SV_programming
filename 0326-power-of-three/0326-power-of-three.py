@@ -1,4 +1,5 @@
 class Solution:
+    @lru_cache(maxsize=None)
     def isPowerOfThree(self, n: int) -> bool:
         if n == 1:
             return True
