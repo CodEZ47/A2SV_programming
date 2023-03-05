@@ -9,7 +9,7 @@ class Solution:
 
         while l <= r:
             # print(l, r)
-            mid = l + (r-l) // 2
+            mid = (l+r) >> 1
             isBad = isBadVersion(mid)
             if isBad:
                 last_bad = mid
