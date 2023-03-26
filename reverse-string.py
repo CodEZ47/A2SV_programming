@@ -3,10 +3,18 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        def reverseS(s,left,right):
-            if left >= right:
+        l = 0
+        r = len(s)-1
+
+        def rec(l,r):
+            if l >= r:
                 return
-            s[left], s[right] = s[right], s[left]
-            reverseS(s, left + 1, right - 1)
+            
+            rec(l+1,r-1)
+            
+            s[l], s[r] = s[r], s[l]
         
-        reverseS(s,0,len(s)-1)
+
+        rec(l,r)
+
+        return s
