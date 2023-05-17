@@ -24,6 +24,7 @@ class Solution:
 
                 for child in graph[curr]:
                     pres[child].add(curr)
+                    pres[child].update(pres[curr])
                     incoming[child] -= 1
 
                     if incoming[child] == 0:
